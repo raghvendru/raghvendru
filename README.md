@@ -1,8 +1,8 @@
-# Hi 👋, I'm Shashidhar 
+# Hi 👋, I'm Raghavendra 
 
 
-- 🌱 I’m MERN Stack Developer
-- 📫 How to reach me **shashidharnaik8@gmail.com**
+- 🌱 I’m Full Stack Developer
+- 📫 How to reach me **raghavendruppar8@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
