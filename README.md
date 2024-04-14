@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m Full Stack Developer
-- 📫 How to reach me **raghavendruppar8@gmail.com**
+- 📫 How to reach me **raghavendruppar@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
