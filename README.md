@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m Full Stack Developer
-- 📫 How to reach me **raghavendruppar@gmail.com**
+- 📫 Catch me @ **raghavendruppar@gmail.com**
 
 
 
