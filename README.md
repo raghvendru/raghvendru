@@ -39,7 +39,6 @@
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/raghavendruppar/)
 
 ## ♨ Languages and Tools:
-## ♨ Languages and Tools:
 
 <p align="left">
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
