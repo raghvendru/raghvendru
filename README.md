@@ -12,7 +12,7 @@
 
 
 
-🏫 I’m currently learning **Full Stack Development**
+🏫 I’m **Full Stack Development**
 
 🔎 I’m actively looking to collaborate on **Open source Project**
 
@@ -24,7 +24,7 @@
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 400+ DSA Problems at **[LeetCode](https://leetcode.com/u/raghavendruppar/)** using Javascript and Typescript.
+- Solved 530+ DSA Problems at **[LeetCode](https://leetcode.com/u/raghavendruppar/)** using Javascript and Typescript.
   
 
 📫 How to reach me **raghavendruppar@gmail.com**
